@@ -17,4 +17,4 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+Rodney Mutembei is a meticulous, forward thinking, growth oriented and passionate innovator with a love of making business processes as simple as possible through systems and automation. He has over 10 years in the IT field and more than 5 years’ experience in specialised ICT services.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
