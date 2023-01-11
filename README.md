@@ -49,4 +49,4 @@ Rodney Mutembei is a meticulous, forward thinking, growth oriented and passionat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airkongo&layout=compact)](https://github.com/airkongo/github-readme-stats)
 
-[![Trophies]([https://github-profile-trophy.vercel.app/?username=airkongo&theme=darkhub)](https://github-profile-trophy.vercel.app/?username=airkongo&theme=matrix)
+[![Trophies]([https://github-profile-trophy.vercel.app/?username=airkongo&theme=darkhub)]
