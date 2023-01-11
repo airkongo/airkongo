@@ -45,4 +45,4 @@ Rodney Mutembei is a meticulous, forward thinking, growth oriented and passionat
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=airkongo&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=airkongo&theme=dark&border_radius=5)](https://git.io/streak-stats)
